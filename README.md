@@ -223,13 +223,13 @@ TaskFlow will be developed incrementally, prioritising core functionality before
   - [x] Establish application architecture.
 
 - [ ] **Phase 2 – Authentication & Access**
-  - [ ] Implement user registration and login.
-  - [ ] Configure authentication.
-  - [ ] Implement role-based authorisation.
-  - [ ] Establish project membership and permissions.
+  - [x] Implement user registration and login.
+  - [x] Configure authentication.
+  - [x] Implement role-based authorisation.
+  - [x] Establish project membership and permissions.
 
 - [ ] **Phase 3 – Project & Task Management**
-  - [ ] Implement project management.
+  - [x] Implement project management.
   - [ ] Implement task creation and assignment.
   - [ ] Implement priorities and statuses.
   - [ ] Add task comments and labels.
