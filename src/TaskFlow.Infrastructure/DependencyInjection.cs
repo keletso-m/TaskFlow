@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using TaskFlow.Application.Auth;
+using TaskFlow.Application.Projects;
 using TaskFlow.Infrastructure.Auth;
 using TaskFlow.Infrastructure.Identity;
 using TaskFlow.Infrastructure.Persistence;
@@ -27,6 +28,7 @@ public static class DependencyInjection
         services.AddSingleton(jwt);
         services.AddSingleton<ITokenGenerator, JwtTokenGenerator>();
         services.AddScoped<IAuthService, AuthService>();
+        services.AddScoped<IProjectService, ProjectService>();
 
         return services;
     }
