@@ -1,0 +1,6 @@
+{
+  "TaskFlow.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/home\/keletso\/Documents\/github\/TaskFlow\/src\/TaskFlow.API",
+  "TaskFlow.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/home\/keletso\/Documents\/github\/TaskFlow\/src\/TaskFlow.Application",
+  "TaskFlow.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/home\/keletso\/Documents\/github\/TaskFlow\/src\/TaskFlow.Core",
+  "TaskFlow.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/home\/keletso\/Documents\/github\/TaskFlow\/src\/TaskFlow.Infrastructure"
+}
