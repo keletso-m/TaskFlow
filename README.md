@@ -217,10 +217,10 @@ dotnet run --project src/TaskFlow.API
 TaskFlow will be developed incrementally, prioritising core functionality before introducing more advanced features.
 
 - [ ] **Phase 1 – Foundation**
-  - [ ] Initialise solution and project structure.
-  - [ ] Configure PostgreSQL and EF Core.
-  - [ ] Implement domain entities.
-  - [ ] Establish application architecture.
+  - [x] Initialise solution and project structure.
+  - [x] Configure PostgreSQL and EF Core.
+  - [x] Implement domain entities.
+  - [x] Establish application architecture.
 
 - [ ] **Phase 2 – Authentication & Access**
   - [ ] Implement user registration and login.
